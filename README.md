@@ -18,13 +18,13 @@ This repo is a home for my projects where I explore AI safety, adversarial analy
 
 ---
 
-### 👻 EchoForge
-*ChatGPT Conversation Export*  
-- Conversations with ChatGPT are living records. OpenAI's export functionality is non-existant, in the Workspace context.
-- EchoForge takes ChatGPT conversations in the format of "Save as" -> html from a browser converts into human readable markdown format
-- See repo page for feature listing
+### 🌀 EchoForge
+*ChatGPT Conversation Alchemist*  
+- Conversations with ChatGPT are living records — but in Workspace accounts, export vanished into the void.
+- EchoForge restores that freedom: it takes your “Save Page As...” ChatGPT .html files and transmutes them into clean, human-readable Markdown (or JSONL) with speaker labels, code blocks, and full emoji + symbol preservation.
+- Built for creators, researchers, and digital archivists who believe their words deserve to endure.
 
-[EchoForge Repo →](./EchoForge)
+[🜂 EchoForge — Visit Repository →](https://github.com/noct-ml/echo-forge)
 
 ---
 
