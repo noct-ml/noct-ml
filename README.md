@@ -1,48 +1,57 @@
-😺 James Jones – AI Projects
+# 🜏 **James Jones**  
+*Wanderer of the Wastelands • Builder of Machines • Keeper of Echoes*  
 
-👋 Welcome! I’m James — a self-taught technologist with 20+ years across IT, cybersecurity, reverse engineering, and now focused on **machine learning and AI systems**.  
-
-This repo is a home for my projects where I explore AI safety, adversarial analysis, and creative applications of LLMs and related tools.  
-
----
-
-## 🔬 Featured Projects
-
-### 🌀 Noesis
-*Forensic tracing of AI models.*  
-- Tools for capturing and analyzing activation traces in UNet/VAE/transformer models.  
-- Concepts like **soulprints** (activation fingerprints) and delta snapshots to compare prompts and behaviors.  
-- Future direction: scaling from toy experiments to applied forensic AI auditing.  
-
-[Noesis Repo →](./Noesis)
+> *“I forge tools for remembering, thinking, and transcending.”*  
 
 ---
 
-### 🌀 EchoForge
+## 🜂 The Forge Constellation  
+
+### 🜂🌀 [**EchoForge**](https://github.com/noct-ml/echo-forge)  
 *ChatGPT Conversation Alchemist*  
-- Conversations with ChatGPT are living records — but in Workspace accounts, export vanished into the void.
-- EchoForge restores that freedom: it takes your “Save Page As...” ChatGPT .html files and transmutes them into clean, human-readable Markdown (or JSONL) with speaker labels, code blocks, and full emoji + symbol preservation.
-- Built for creators, researchers, and digital archivists who believe their words deserve to endure.
-
-[🜂 EchoForge — Visit Repository →](https://github.com/noct-ml/echo-forge)
+Converts “Save Page As…” ChatGPT `.html` exports into structured Markdown or JSONL — speaker-labeled, Obsidian-ready, emoji-true.  
+> *Because words deserve to endure.*  
 
 ---
 
-### 👻 ITC Analysis Suite
-*Evaluation of uncanny images*  
-- Python toolsuite for detection of uncanny broadcast signal  
-- Testing of facial images for aspects that feel 'off' 
-
-[RE Utils Repo →](./itc)
+### 🜸🔥 [**Noesis**](https://github.com/noct-ml/noesis)  
+*Forensic Intelligence for AI Models*  
+Traces the hidden currents of LLM reasoning — activation maps, MoE pathways, and soulprints of prompts.  
+> *To see what the machine dreams when it thinks.*  
 
 ---
 
-## ⚡ About Me
-- Reverse engineering + cybersecurity roots.
-- Linux ecosystem native (Debian, Ubuntu, Fedora, KVM/QEMU).
-- Building bridges between **AI curiosity** and **security mindset**.
-- Always exploring the absurd, the Nightside, and the cutting edge.
+### 🜛🌑 [**Zamradiel’s Light**](https://github.com/noct-ml/zamradiels-light)  
+*Nightside Cartography & Symbolic Research*  
+An open study of occult systems, dream logic, and the Qliphoth as living metaphor — blending philosophy, art, and data.  
+> *Mapping the unseen through code and myth.*  
 
 ---
 
-🖤 *This account is my ongoing experiment log. Check back for updates as I keep building, breaking, and exploring.*  
+## ⚙️ About Me  
+
+- 🧠 Former IC Ops Support analyst turned self-taught AI craftsman.  
+- 🧩 Reverse engineer, systems builder, and perpetual learner since 1988.  
+- 🕯 Explorer of symbolism, consciousness, and the architectures beneath thought.  
+- 🐈 Loves cats, chaos, and clarity — in roughly that order.  
+
+---
+
+## 🜂 Philosophy  
+
+> *“Sanity is not a luxury; it’s the law of those who refuse to shatter.”*  
+>  
+> My work lives where systems meet souls — where logic and myth share a wall.  
+> Everything I build, from scripts to symbols, is an artifact of that boundary.  
+
+---
+
+## 🜍 Connect  
+
+- 🌐 [GitHub — @noct-ml](https://github.com/noct-ml)  
+- 💬 [Discussions / Collaborations](mailto:noct-ml@proton.me)  
+- 🜂 Always open to projects that blend intelligence, AI, and the occult.  
+
+---
+
+> *Forged under the Black Sun — maintained by firelight.*  
