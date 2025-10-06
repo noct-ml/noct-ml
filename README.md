@@ -1,4 +1,4 @@
-c# James Jones – AI Projects
+😺 James Jones – AI Projects
 
 👋 Welcome! I’m James — a self-taught technologist with 20+ years across IT, cybersecurity, reverse engineering, and now focused on **machine learning and AI systems**.  
 
