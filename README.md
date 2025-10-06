@@ -1,4 +1,4 @@
-# James Jones – AI Projects
+c# James Jones – AI Projects
 
 👋 Welcome! I’m James — a self-taught technologist with 20+ years across IT, cybersecurity, reverse engineering, and now focused on **machine learning and AI systems**.  
 
@@ -18,23 +18,13 @@ This repo is a home for my projects where I explore AI safety, adversarial analy
 
 ---
 
-### 👻 EVP Simulator
-*AI meets ghost radio.*  
-- Python audio tool inspired by the Panasonic RR-DR60 EVP recorder.  
-- Adds ghostly overlays, entropy-based artifacts, and timestamped logging.  
-- Mix of sound design + algorithmic weirdness.  
+### 👻 EchoForge
+*ChatGPT Conversation Export*  
+- Conversations with ChatGPT are living records. OpenAI's export functionality is non-existant, in the Workspace context.
+- EchoForge takes ChatGPT conversations in the format of "Save as" -> html from a browser converts into human readable markdown format
+- See repo page for feature listing
 
-[EVP Simulator Repo →](./EVP-Simulator)
-
----
-
-### 🌍 FAISS Geolocation Index
-*Vector search on massive datasets.*  
-- Filters and vectorizes images from the YFCC100M dataset.  
-- Builds a FAISS index for geolocation experiments.  
-- CSV-based workflow, scalable for research or creative use.  
-
-[FAISS Repo →](./FAISS-Geolocation)
+[EchoForge Repo →](./EchoForge)
 
 ---
 
@@ -48,10 +38,10 @@ This repo is a home for my projects where I explore AI safety, adversarial analy
 ---
 
 ## ⚡ About Me
-- Reverse engineering + cybersecurity roots.  
-- Linux ecosystem native (Debian, Ubuntu, Fedora, KVM/QEMU).  
-- Building bridges between **AI curiosity** and **security mindset**.  
-- Always exploring the absurd, the Nightside, and the cutting edge.  
+- Reverse engineering + cybersecurity roots.
+- Linux ecosystem native (Debian, Ubuntu, Fedora, KVM/QEMU).
+- Building bridges between **AI curiosity** and **security mindset**.
+- Always exploring the absurd, the Nightside, and the cutting edge.
 
 ---
 
