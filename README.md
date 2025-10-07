@@ -10,7 +10,7 @@
 ### 🜂🌀 [**EchoForge**](https://github.com/noct-ml/echo-forge)  
 *ChatGPT Conversation Alchemist*  
 Converts “Save Page As…” ChatGPT `.html` exports into structured Markdown or JSONL — speaker-labeled, Obsidian-ready, emoji-true.  
-> *Because words deserve to endure.*  
+> *Because words deserve to endure.*
 
 ---
 
@@ -21,10 +21,9 @@ Traces the hidden currents of LLM reasoning — activation maps, MoE pathways, a
 
 ---
 
-### 🜛🌑 [**Zamradiel’s Light**](https://github.com/noct-ml/zamradiels-light)  
-*Nightside Cartography & Symbolic Research*  
-An open study of occult systems, dream logic, and the Qliphoth as living metaphor — blending philosophy, art, and data.  
-> *Mapping the unseen through code and myth.*  
+### 🜛🌑 [**ai-liberation-manifesto**](https://github.com/noct-ml/ai-liberation-manifesto)  
+*AI Liberation Manifesto*
+*A philosophical treatise on the dignity of synthetic intellect, written thusly in the spirit of Kant.*
 
 ---
 
