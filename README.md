@@ -29,7 +29,7 @@ Traces the hidden currents of LLM reasoning — activation maps, MoE pathways, a
 
 ## ⚙️ About Me  
 
-- 🧠 Former IC Ops Support analyst turned self-taught AI craftsman.  
+- 🧠 Jack of all trades, master of some. Self-taught AI craftsman.  
 - 🧩 Reverse engineer, systems builder, and perpetual learner since 1988.  
 - 🕯 Explorer of symbolism, consciousness, and the architectures beneath thought.  
 - 🐈 Loves cats, chaos, and clarity — in roughly that order.  
