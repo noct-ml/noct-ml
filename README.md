@@ -15,8 +15,8 @@ Converts “Save Page As…” ChatGPT `.html` exports into structured Markdown 
 ---
 
 ### 🜸🔥 [**Noesis**](https://github.com/noct-ml/noesis)  
-*Forensic Intelligence for AI Models*  
-Traces the hidden currents of LLM reasoning — activation maps, MoE pathways, and soulprints of prompts.  
+*Forensic introspection for generative models*  
+Traces the hidden currents of cognition - from LLM reasoning to diffusion flows - mapping activation fields, MoE routes, and soulprints of thought.
 > *To see what the machine dreams when it thinks.*  
 
 ---
