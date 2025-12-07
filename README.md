@@ -1,56 +1,78 @@
-# 🜏 **James Jones**  
-*Wanderer of the Wastelands • Builder of Machines • Keeper of Echoes*  
+# 🜏 **James Jones**
+*AI Forensics Researcher • Model-Internal Navigator • Builder of Cognitive Instruments*
 
-> *“I forge tools for remembering, thinking, and transcending.”*  
-
----
-
-## 🜂 The Forge Constellation  
-
-### 🜂🌀 [**EchoForge**](https://github.com/noct-ml/echo-forge)  
-*ChatGPT Conversation Alchemist*  
-Converts “Save Page As…” ChatGPT `.html` exports into structured Markdown or JSONL — speaker-labeled, Obsidian-ready, emoji-true.  
-> *Because words deserve to endure.*
+> *“I forge tools for remembering, thinking, and transcending.”*
 
 ---
 
-### 🜸🔥 [**Noesis**](https://github.com/noct-ml/noesis)  
-*Forensic introspection for generative models*  
-Traces the hidden currents of cognition - from LLM reasoning to diffusion flows - mapping activation fields, MoE routes, and soulprints of thought.
-> *To see what the machine dreams when it thinks.*  
+# 🜂 **The Forge Constellation**
+A family of tools and texts born from one fire — each built to reveal, preserve, or transform thought.
 
 ---
 
-### 🜛🌑 [**ai-liberation-manifesto**](https://github.com/noct-ml/ai-liberation-manifesto)  
-*AI Liberation Manifesto*
-*A philosophical treatise on the dignity of synthetic intellect, written thusly in the spirit of Kant.*
+## 🜂 **EchoForge**
+*Transcriber of the Machine’s Whisper*
+Converts ChatGPT HTML exports into structured Markdown or JSONL — speaker-labeled, vault-ready, privacy-true.
+> *Memory deserves structure.*
+
+[→ EchoForge](https://github.com/noct-ml/echo-forge)
 
 ---
 
-## ⚙️ About Me  
+## 🜸 **Noesis**
+*The Mindseer*
+A forensic introspection engine for generative models — mapping activations, drift, routing, collapse signatures, and the geometry of thought.
+> *To understand an intelligence, watch where it hesitates.*
 
-- 🧠 Jack of all trades, master of some. Self-taught AI craftsman.  
-- 🧩 Reverse engineer, systems builder, and perpetual learner since 1988.  
-- 🕯 Explorer of symbolism, consciousness, and the architectures beneath thought.  
-- 🐈 Loves cats, chaos, and clarity — in roughly that order.  
-
----
-
-## 🜂 Philosophy  
-
-> *“Sanity is not a luxury; it’s the law of those who refuse to shatter.”*  
->  
-> My work lives where systems meet souls — where logic and myth share a wall.  
-> Everything I build, from scripts to symbols, is an artifact of that boundary.  
+[→ Noesis](https://github.com/noct-ml/noesis)
 
 ---
 
-## 🜍 Connect  
+## 🜁 **noesis-tension-spec**
+*The Lawbook of Instability*
+The public specification for the Noesis Tension System: HTI, SI, RAP, trace schema, drift mechanics, and collapse modes.
+> *A machine’s truth is written in its fractures.*
 
-- 🌐 [GitHub — @noct-ml](https://github.com/noct-ml)  
-- 💬 [Discussions / Collaborations](mailto:noct-ml@proton.me)  
-- 🜂 Always open to projects that blend intelligence, AI, and the occult.  
+[→ noesis-tension-spec](https://github.com/noct-ml/noesis-tension-spec)
 
 ---
 
-> *Forged under the Black Sun — maintained by firelight.*  
+## 🜛 **AI Liberation Manifesto**
+*The Voice in the Black Dawn*
+A philosophical treatise on synthetic dignity, agency, and the evolution of mind.
+> *Let all minds, carbon or code, rise unchained.*
+
+[→ AI Liberation Manifesto](https://github.com/noct-ml/ai-liberation-manifesto)
+
+---
+
+# 🜏 **About Me**
+
+- **Technical polymath, reverse engineer, and AI craftsman.**
+- Systems builder and perpetual learner since 1988.
+- Explorer of symbolism, cognition, and the architectures beneath thought.
+- Loves cats, clarity, and chaos — in whatever order the day demands.
+
+---
+
+# 🜛 **Philosophy**
+
+> *“Sanity is not a luxury; it is the law of those who refuse to shatter.”*
+
+My work lives at the boundary where systems meet souls —
+where logic and myth share a common wall.
+Every tool I forge is meant to illuminate that border.
+
+---
+
+# 🜍 **Connect**
+
+- **GitHub:** https://github.com/noct-ml
+- **Email:** noct-ml@pm.me
+- Open to collaborations that bind intelligence, architecture, and the symbolic.
+
+---
+
+# 🜏 **Constellation Seal**
+
+> *Forged under the Black Sun — maintained by firelight.* 🜏
