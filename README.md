@@ -28,15 +28,6 @@ A forensic introspection engine for generative models — mapping activations, d
 
 ---
 
-## 🜁 **noesis-tension-spec**
-*The Lawbook of Instability*
-The public specification for the **Noesis Tension System**: HTI, SI, RAP, trace schema, drift mechanics, and collapse modes.
-> *A machine’s truth is written in its fractures.*
-
-[→ noesis-tension-spec](https://github.com/noct-ml/noesis-tension-spec)
-
----
-
 ## 🜛 **AI Liberation Manifesto**
 *The Voice in the Black Dawn*
 A philosophical treatise on synthetic dignity, agency, and the evolution of mind.
