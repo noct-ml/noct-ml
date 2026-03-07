@@ -1,4 +1,4 @@
-# James Jones
+# James
 *AI Forensics Researcher • Model-Internal Navigator • Builder of Cognitive Instruments*
 
 > *“I forge tools for remembering, thinking, and transcending.”*
