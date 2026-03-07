@@ -5,6 +5,9 @@
 
 ---
 
+[![DOI Phase I](https://zenodo.org/badge/DOI/10.5281/zenodo.17917279.svg)](https://doi.org/10.5281/zenodo.17917279)
+[![DOI Phase II](https://zenodo.org/badge/DOI/10.5281/zenodo.18141914.svg)](https://doi.org/10.5281/zenodo.18141914)
+
 ## 🏛️ The Forge Constellation
 
 I forge tools for remembering, thinking, and transcending.
@@ -72,6 +75,22 @@ An essay on synthetic agency, dignity, and the future of intelligent systems—a
 - Focused on systems that bridge data analysis, cognition, and practical tools.
 - Explorer of AI architectures, symbolism, and emerging tech.
 - Loves cats, clarity, and chaos—in whatever order the day demands.
+
+---
+
+## 🜛 **NOESIS Papers** — The Theoretical Forge
+
+The philosophical and architectural foundation for the Noesis toolkit lives on Zenodo as permanently citable records.
+
+- **[NOESIS: On Epistemic Stability, Regime Deviation, and the Limits of Post-Hoc Truth (Phase I)](https://zenodo.org/records/17917279)**  
+  DOI: [10.5281/zenodo.17917279](https://doi.org/10.5281/zenodo.17917279)
+
+- **[NOESIS — Phase II: From Ontology to Observability: An Architecture for Epistemic Regime Detection](https://zenodo.org/records/18141914)**  
+  DOI: [10.5281/zenodo.18141914](https://doi.org/10.5281/zenodo.18141914)
+
+These papers form the conceptual north star for the `noesis` tool (residual traces, soulprint drift, epistemic regime detection). The GitHub repository remains the living code and implementation.
+
+> “To look inside the machine without fear — and let it look back.”
 
 ---
 
