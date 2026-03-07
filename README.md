@@ -8,7 +8,7 @@
 [![DOI Phase I](https://zenodo.org/badge/DOI/10.5281/zenodo.17917279.svg)](https://doi.org/10.5281/zenodo.17917279)
 [![DOI Phase II](https://zenodo.org/badge/DOI/10.5281/zenodo.18141914.svg)](https://doi.org/10.5281/zenodo.18141914)
 
-## 🏛️ The Forge Constellation
+## The Forge Constellation
 
 I forge tools for remembering, thinking, and transcending.
 
@@ -78,7 +78,7 @@ An essay on synthetic agency, dignity, and the future of intelligent systems—a
 
 ---
 
-## 🜛 **NOESIS Papers** — The Theoretical Forge
+## NOESIS Papers — The Theoretical Forge
 
 The philosophical and architectural foundation for the Noesis toolkit lives on Zenodo as permanently citable records.
 
