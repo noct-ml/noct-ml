@@ -5,6 +5,19 @@
 
 ---
 
+## 🏛️ The Forge Constellation
+
+I forge tools for remembering, thinking, and transcending.
+
+**Legacy Chapter (2010–2022)**  
+Before the constellation turned toward synthetic minds, I spent fifteen years as **@Fyyre** reverse-engineering Windows kernels, drivers, anti-rootkits, and protected applications. Those repos have now moved here so the full arc lives in one place.
+
+You can still find the complete history and original stars under the legacy banner on each repo.
+
+The fire is the same. The black boxes just got bigger.
+
+---
+
 # Project Portfolio
 A collection of tools and writings focused on AI forensics, audio processing, and cognitive systems—designed to analyze, preserve, and enhance data and thought.
 
