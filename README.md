@@ -33,7 +33,15 @@ These papers together form the complete foundation for the Noesis tool.
 ## Project Portfolio
 
 ### EchoForge
-Converts ChatGPT HTML exports into clean Markdown or JSONL formats, with speaker labels and privacy-preserving options. Designed for archiving and integration with note-taking systems like Obsidian.
+
+![Deprecated](https://img.shields.io/badge/Status-Deprecated-red?style=flat)
+
+**This project has been deprecated.**
+
+EchoForge was originally built around ChatGPT. As we have moved away from ChatGPT, this project is no longer maintained or updated.
+
+- Repository archived for historical reference only.
+- No further development or support.
 
 ### Noesis
 Early lightweight version for model introspection.  
