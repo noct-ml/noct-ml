@@ -12,14 +12,23 @@ Before focusing on AI systems, I spent fifteen years as @Fyyre reverse-engineeri
 
 You can find the original stars and full commit history on each legacy repository.
 
-## NOESIS Papers
-- **[NOESIS: On Epistemic Stability, Regime Deviation, and the Limits of Post-Hoc Truth (Phase I)](https://zenodo.org/records/17917279)**  
-  DOI: 10.5281/zenodo.17917279
+### NOESIS Papers
 
-- **[NOESIS — Phase II: From Ontology to Observability: An Architecture for Epistemic Regime Detection](https://zenodo.org/records/18141914)**  
-  DOI: 10.5281/zenodo.18141914
+The NOESIS project has progressed through three phases:
 
-These papers provide the theoretical foundation for the Noesis tool.
+- **Phase I** — NOESIS: On Epistemic Stability, Regime Deviation, and the Limits of Post-Hoc Truth  
+  DOI: [10.5281/zenodo.17917279](https://doi.org/10.5281/zenodo.17917279)
+
+- **Phase II** — NOESIS — Phase II: From Ontology to Observability: An Architecture for Epistemic Regime Detection  
+  DOI: [10.5281/zenodo.18141914](https://doi.org/10.5281/zenodo.18141914)
+
+- **Phase III** — Noesis Tension: A Telemetry-Driven Taxonomy of Prompt-Induced Representational Pressures in Large Language Models  
+  DOI: [10.5281/zenodo.19457642](https://doi.org/10.5281/zenodo.19457642)
+
+**Phases I and II** lay the theoretical and architectural foundations for the project.  
+**Noesis Tension (Phase III)** presents the first concrete, telemetry-only implementation of the framework — including the 12 tension categories, the deterministic cognitive regime classifier, and cross-model empirical results.
+
+These papers together form the complete foundation for the Noesis tool.
 
 ## Project Portfolio
 
