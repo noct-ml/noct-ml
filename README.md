@@ -1,6 +1,6 @@
 # James
 AI Forensics Researcher • Model-Internal Navigator • Builder of Cognitive Instruments
-Formerly @Fyyre (Windows kernel RE 2010–2022)
+Formerly [@Fyyre](https://github.com/Fyyre) (Windows kernel RE 2010–2022)
 
 ---
 
