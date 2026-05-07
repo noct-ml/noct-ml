@@ -19,7 +19,7 @@ A practical, telemetry-only framework for observing how LLMs internally react to
 
 - Clean A/B prompt classification (`class_a` = factual, `class_b` = mixed/creative/edge)
 - Purely internal signal-based regimes: `safety_procedural`, `symbolic_repetitive_drift`, `confident_hallucination_lite`
-- Stable, lightweight, and cross-model (tested on Mistral-7B & Llama-3.1-8B)
+- Stable, lightweight, and cross-model (tested on Mistral-7B-Instruct-v0.3, Llama-3.1-8B-Instruct, Qwen1.5-MoE-A2.7B, GPT-OSS-20B, Phi-3.5-mini-instruct, )
 
 → **[v3.0-stable](https://github.com/noct-ml/noesis-tension/tree/main/v3.0-stable)** (Recommended)
 
