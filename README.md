@@ -21,7 +21,7 @@ A practical, telemetry-only framework for observing how LLMs internally react to
 - Purely internal signal-based regimes: `safety_procedural`, `symbolic_repetitive_drift`, `confident_hallucination_lite`
 - Stable, lightweight, and cross-model (tested on Mistral-7B-Instruct-v0.3, Llama-3.1-8B-Instruct, Qwen1.5-MoE-A2.7B, GPT-OSS-20B, Phi-3.5-mini-instruct, )
 
-→ **[v3.0-stable](https://github.com/noct-ml/noesis-tension/tree/main/v3.0-stable)** (Recommended)
+→ **[v0.3.2](https://github.com/noct-ml/noesis-tension/tree/main/v0.3.2)** (Recommended)
 
 **Phase III** of the NOESIS series — this is the first concrete implementation of the framework presented in the papers.
 
@@ -32,9 +32,6 @@ A practical, telemetry-only framework for observing how LLMs internally react to
 
 - **Phase II**: From Ontology to Observability — An Architecture for Epistemic Regime Detection  
   [DOI: 10.5281/zenodo.18141914](https://doi.org/10.5281/zenodo.18141914)
-
-- **Phase III**: Noesis Tension — A Telemetry-Driven Taxonomy...  
-  [DOI: 10.5281/zenodo.19457642](https://doi.org/10.5281/zenodo.19457642)
 
 ### Legacy Chapter (2010–2022)
 
