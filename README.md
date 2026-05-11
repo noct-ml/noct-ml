@@ -22,8 +22,6 @@ A practical, telemetry-only framework for observing how LLMs internally react to
 
 → **[v0.3.2](https://github.com/noct-ml/noesis-tension/tree/main/v0.3.2)** (Recommended)
 
-**Phase III** of the NOESIS series — this is the first concrete implementation of the framework presented in the papers.
-
 ### NOESIS Papers
 
 - **Phase I**: On Epistemic Stability, Regime Deviation, and the Limits of Post-Hoc Truth  
@@ -41,6 +39,10 @@ Before shifting focus to AI systems, I spent over a decade as **@Fyyre** reverse
 - **EchoForge** — Deprecated (originally built around ChatGPT)
 - **Panasonic RR-DR60 Emulator** — DSP-based vintage voice recorder simulation
 - **AI Liberation Manifesto** — Essay on synthetic agency and ethical AI development
+
+### Projects with [@hfiref0x](https://github.com/hfiref0x)
+- [UPGDSED](https://github.com/hfiref0x/UPGDSED) — Universal PatchGuard and Driver Signature Enforcement Disable
+- [Drvmon](https://github.com/noct-ml/Drvmon) — Advanced driver monitoring utility
 
 ### About Me
 
