@@ -7,7 +7,6 @@ Formerly [@Fyyre](https://github.com/Fyyre) (Windows kernel RE 2010–2022)
 
 [![DOI Phase I](https://zenodo.org/badge/DOI/10.5281/zenodo.17917279.svg)](https://doi.org/10.5281/zenodo.17917279)
 [![DOI Phase II](https://zenodo.org/badge/DOI/10.5281/zenodo.18141914.svg)](https://doi.org/10.5281/zenodo.18141914)
-[![DOI Phase III](https://zenodo.org/badge/DOI/10.5281/zenodo.19457642.svg)](https://doi.org/10.5281/zenodo.19457642)
 
 ### Current Main Project
 
