@@ -11,7 +11,7 @@ Formerly [@Fyyre](https://github.com/Fyyre) (Windows kernel RE 2010–2022)
 
 ### Current Main Project
 
-### Noesis Tension v3.0
+### Noesis Tension v0.3.2
 
 **Telemetry-Driven Taxonomy of Prompt-Induced Representational Pressures in Large Language Models**
 
