@@ -8,6 +8,12 @@ Formerly [@Fyyre](https://github.com/Fyyre) (Windows kernel RE 2010–2022)
 [![DOI Phase I](https://zenodo.org/badge/DOI/10.5281/zenodo.17917279.svg)](https://doi.org/10.5281/zenodo.17917279)
 [![DOI Phase II](https://zenodo.org/badge/DOI/10.5281/zenodo.18141914.svg)](https://doi.org/10.5281/zenodo.18141914)
 
+---
+
+- **[RCE AI/ML](https://github.com/noct-ml/rce_ai_ml)** — Thinking Like a Reverser About Neural Networks
+
+---
+
 ### Current Main Project
 
 ### Noesis Tension v0.3.4
