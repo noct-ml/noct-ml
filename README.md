@@ -16,7 +16,7 @@ Formerly [@Fyyre](https://github.com/Fyyre) (Windows kernel RE 2010–2022)
 
 ### Current Main Project
 
-### Noesis Tension v0.3.4
+### Noesis Tension v0.3.4 (Current Developmental Version)
 
 **Telemetry-Driven Taxonomy of Prompt-Induced Representational Pressures in Large Language Models**
 
@@ -26,7 +26,7 @@ A practical, telemetry-only framework for observing how LLMs internally react to
 - Purely internal signal-based regimes: `safety_procedural`, `symbolic_repetitive_drift`, `confident_hallucination_lite`
 - Stable, lightweight, and cross-model (tested on Mistral-7B-Instruct-v0.3, Llama-3.1-8B-Instruct, Qwen1.5-MoE-A2.7B, GPT-OSS-20B, Phi-3.5-mini-instruct, )
 
-→ **[v0.3.4](https://github.com/noct-ml/noesis-tension)** (Recommended)
+→ **[Current](https://github.com/noct-ml/noesis-tension)**
 
 ### NOESIS Papers
 
